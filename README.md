@@ -2,6 +2,10 @@
 
 arXiv 논문 초록 데이터를 활용한 에이전틱 RAG(Retrieval-Augmented Generation) 시스템입니다.
 
+## 데모
+
+https://biotechnologically-nonaquatic-cristy.ngrok-free.dev/
+
 ## 기술 스택
 
 | 구분 | 기술 |
